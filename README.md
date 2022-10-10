@@ -2,4 +2,4 @@
 This project involves continuous monitoring of Air pollution in a specific environment.
 The aim of the projectinvolves sensing and monitoring the air pollutants that are present in the environment.
 To provide user with the statistics on individual contents of pollutants. To provide mobile app to monitor the system.
-To provide management with warning messages indicating to control the pollution.
+To provide management with warning messages indicating to control the pollution.
